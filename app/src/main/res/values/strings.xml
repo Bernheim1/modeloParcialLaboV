@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">modeloPP</string>
+    <string name="cantidadProducto">Amount:</string>
+    <string name="precioUnidad">Unit price:</string>
+    <string name="botonEditar">Edit</string>
+    <string name="nombreProducto">Product name:</string>
+</resources>
